@@ -1,0 +1,12 @@
+body {
+  border: 0px;
+}
+.profile-img {
+  width:128px;
+  height:128px;
+  border-radius: 35px;
+}
+
+.inline-container {
+  display: inline-block;
+}
